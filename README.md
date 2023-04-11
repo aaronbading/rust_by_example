@@ -14,7 +14,7 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 - [x] Custom Types - struct and enum.
 
-- [ ] Variable Bindings - mutable bindings, scope, shadowing.
+- [x] Variable Bindings - mutable bindings, scope, shadowing.
 
 - [ ] Types - Learn about changing and defining types.
 
