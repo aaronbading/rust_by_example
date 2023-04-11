@@ -16,7 +16,7 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 - [x] Variable Bindings - mutable bindings, scope, shadowing.
 
-- [ ] Types - Learn about changing and defining types.
+- [x] Types - Learn about changing and defining types.
 
 - [ ] Conversion
 
