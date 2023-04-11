@@ -12,7 +12,7 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 - [x] Primitives - Learn about signed integers, unsigned integers and other primitives.
 
-- [ ] Custom Types - struct and enum.
+- [x] Custom Types - struct and enum.
 
 - [ ] Variable Bindings - mutable bindings, scope, shadowing.
 
