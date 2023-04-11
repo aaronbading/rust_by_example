@@ -18,11 +18,11 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 - [x] Types - Learn about changing and defining types.
 
-- [ ] Conversion
+- [x] Conversion
 
-- [ ] Expressions
+- [x] Expressions
 
-- [ ] Flow of Control - if/else, for, and others.
+- [x] Flow of Control - if/else, for, and others.
 
 - [ ] Functions - Learn about Methods, Closures and High Order Functions.
 
